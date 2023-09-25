@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Schedule</string>
+    <string name="Button_Open_FullSchedule">Открыть Расписание</string>
+    <string name="WeekDay"></string>
+    <string name="Button_Close_FullSchedule">Закрыть</string>
+    <string name="Raspisanie">Расписание</string>
+    <string name="Mon">Пн</string>
+    <string name="Tue">Вт</string>
+    <string name="Wed">Ср</string>
+    <string name="Thu">Чт</string>
+    <string name="Fri">Пт</string>
+    <string name="Sat">Сб</string>
+</resources>
